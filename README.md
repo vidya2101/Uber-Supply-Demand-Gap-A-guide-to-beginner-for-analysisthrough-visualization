@@ -1,5 +1,5 @@
 # Uber-Supply-Demand-Gap-A-guide-to-beginner-for-analysis-through-visualization
-A guide to beginner: How to perform uni-variate and variate analysis
+A guide to beginner: How to perform uni-variate and bi-variate analysis
 If you are new to data science or the terms univariate and bivariate analysis. This repository will show you how a step by step analysis is performed using visualizations. 
 Just have fun Reading the NoteBook. 
 
