@@ -47,10 +47,3 @@ Find the types of requests (city-airport or airport-city) for which the gap is t
 What do you think is the reason for this issue for the supply-demand gap? Write the answer in less than 100 words. You may accompany the write-up with plot(s).
 
 ## Recommend some ways to resolve the supply-demand gap.
- 
-
-
-
- 
-
-Please refer to the rubric provided on the next page to get a clear idea of what parameters will you be evaluated on.
